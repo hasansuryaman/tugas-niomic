@@ -6,8 +6,8 @@
 ini adalah list dari tugas [Niomic](https://niomic.com/) yang telah saya selesaikan.
 
 ### Tugas HTML
-- [Tugas 1 HTML](https://github.com/hasansuryaman/tugas_1_html)
-- [Tugas 2 HTML](https://github.com/hasansuryaman/tugas_2_html)
+- [Tugas 1 HTML](https://github.com/hasansuryaman/tugas_1_html) ~ Meta Chartset, Element Title, Meta Author, Keyword, Description, Meta Refresh, Link Icon Favicon.
+- [Tugas 2 HTML](https://github.com/hasansuryaman/tugas_2_html) ~ Penggunaan Comment
 - [Tugas 3 HTML](https://github.com/hasansuryaman/tugas_3_html)
 - [Tugas 4 HTML](https://github.com/hasansuryaman/tugas_4_html)
 - [Tugas 5 HTML](https://github.com/hasansuryaman/tugas_5_html)
