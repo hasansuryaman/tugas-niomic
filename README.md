@@ -213,4 +213,4 @@ ini adalah list dari tugas [Niomic](https://niomic.com/) yang telah saya selesai
 
 <br>
 
-**bulk backup** semua tugas bisa didapatkan [disini](google.com)
+***bulk backup*** semua tugas bisa didapatkan [disini](google.com)
