@@ -1,8 +1,11 @@
-# Tugas Niomic
+# Niomic
 
+
+
+## Tugas Niomic
 ini adalah list dari tugas [Niomic](https://niomic.com/) yang telah saya selesaikan.
 
-## Tugas HTML
+### Tugas HTML
 - [Tugas 1 HTML](https://github.com/hasansuryaman/tugas_1_html)
 - [Tugas 2 HTML](https://github.com/hasansuryaman/tugas_2_html)
 - [Tugas 3 HTML](https://github.com/hasansuryaman/tugas_3_html)
@@ -16,7 +19,7 @@ ini adalah list dari tugas [Niomic](https://niomic.com/) yang telah saya selesai
 - [Tugas 11 HTML](https://github.com/hasansuryaman/tugas_11_html)
 - [Tugas 12 HTML](https://github.com/hasansuryaman/tugas_12_html)
 
-## Tugas CSS
+### Tugas CSS
 - [Tugas 1 HTML](https://github.com/hasansuryaman/tugas_1_html)
 - [Tugas 2 HTML](https://github.com/hasansuryaman/tugas_2_html)
 - [Tugas 3 HTML](https://github.com/hasansuryaman/tugas_3_html)
@@ -30,7 +33,7 @@ ini adalah list dari tugas [Niomic](https://niomic.com/) yang telah saya selesai
 - [Tugas 11 HTML](https://github.com/hasansuryaman/tugas_11_html)
 - [Tugas 12 HTML](https://github.com/hasansuryaman/tugas_12_html)
 
-## Tugas Javascript
+### Tugas Javascript
 - [Tugas 1 Javascript](https://github.com/hasansuryaman/tugas_1_javascript)
 - [Tugas 2 Javascript](https://github.com/hasansuryaman/tugas_2_javascript)
 - [Tugas 3 Javascript](https://github.com/hasansuryaman/tugas_3_javascript)
@@ -44,7 +47,7 @@ ini adalah list dari tugas [Niomic](https://niomic.com/) yang telah saya selesai
 - [Tugas 11 Javascript](https://github.com/hasansuryaman/tugas_11_javascript)
 - [Tugas 12 Javascript](https://github.com/hasansuryaman/tugas_12_javascript)
 
-## Tugas Networking Basic
+### Tugas Networking Basic
 - [Tugas 1 HTML](https://github.com/hasansuryaman/tugas_1_html)
 - [Tugas 2 HTML](https://github.com/hasansuryaman/tugas_2_html)
 - [Tugas 3 HTML](https://github.com/hasansuryaman/tugas_3_html)
@@ -58,7 +61,7 @@ ini adalah list dari tugas [Niomic](https://niomic.com/) yang telah saya selesai
 - [Tugas 11 HTML](https://github.com/hasansuryaman/tugas_11_html)
 - [Tugas 12 HTML](https://github.com/hasansuryaman/tugas_12_html)
 
-## Tugas C++
+### Tugas C++
 - [Tugas 1 HTML](https://github.com/hasansuryaman/tugas_1_html)
 - [Tugas 2 HTML](https://github.com/hasansuryaman/tugas_2_html)
 - [Tugas 3 HTML](https://github.com/hasansuryaman/tugas_3_html)
