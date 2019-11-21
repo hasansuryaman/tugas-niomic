@@ -185,7 +185,7 @@ ini adalah list dari tugas [Niomic](https://niomic.com/) yang telah saya selesai
 
 ### Tugas Flutter - Beautiful Native Apps
 - [Tugas 1 flutter](https://github.com/hasansuryaman/tugas_1_flutter) - Membuat Program Dengan Menggunakan Widget Container, Text, Center.
-- [Tugas 2 flutter](https://github.com/hasansuryaman/tugas_2_flutter)
+- [Tugas 2 flutter](https://github.com/hasansuryaman/tugas_2_flutter) - Membuat Aplikasi Dengan Menggunakan Widget Container, Text, Center, Style, Icon, AppBar, Image.
 - [Tugas 3 flutter](https://github.com/hasansuryaman/tugas_3_flutter)
 - [Tugas 4 flutter](https://github.com/hasansuryaman/tugas_4_flutter)
 - [Tugas 5 flutter](https://github.com/hasansuryaman/tugas_5_flutter)
