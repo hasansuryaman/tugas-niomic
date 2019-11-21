@@ -184,15 +184,15 @@ ini adalah list dari tugas [Niomic](https://niomic.com/) yang telah saya selesai
 - [Tugas 12 Networking Basic](https://github.com/hasansuryaman/tugas_12_networking_basic)
 
 ### Tugas Flutter - Beautiful Native Apps
-- [Tugas 1 flutter](https://github.com/hasansuryaman/tugas_1_flutter) - Membuat Program Dengan Menggunakan Widget Container, Text, Center.
-- [Tugas 2 flutter](https://github.com/hasansuryaman/tugas_2_flutter) - Membuat Aplikasi Dengan Menggunakan Widget Container, Text, Center, Style, Icon, AppBar, Image.
-- [Tugas 3 flutter](https://github.com/hasansuryaman/tugas_3_flutter)
-- [Tugas 4 flutter](https://github.com/hasansuryaman/tugas_4_flutter)
-- [Tugas 5 flutter](https://github.com/hasansuryaman/tugas_5_flutter)
-- [Tugas 6 flutter](https://github.com/hasansuryaman/tugas_6_flutter)
-- [Tugas 7 flutter](https://github.com/hasansuryaman/tugas_7_flutter)
-- [Tugas 8 flutter](https://github.com/hasansuryaman/tugas_8_flutter)
-- [Tugas 9 flutter](https://github.com/hasansuryaman/tugas_9_flutter)
+- [Tugas 1 Flutter](https://github.com/hasansuryaman/tugas_1_flutter) - Membuat Program Dengan Menggunakan Widget Container, Text, Center.
+- [Tugas 2 Flutter](https://github.com/hasansuryaman/tugas_2_flutter) - Membuat Aplikasi Dengan Menggunakan Widget Container, Text, Center, Style, Icon, AppBar, Image.
+- [Tugas 3 Flutter](https://github.com/hasansuryaman/tugas_3_flutter)
+- [Tugas 4 Flutter](https://github.com/hasansuryaman/tugas_4_flutter)
+- [Tugas 5 Flutter](https://github.com/hasansuryaman/tugas_5_flutter)
+- [Tugas 6 Flutter](https://github.com/hasansuryaman/tugas_6_flutter)
+- [Tugas 7 Flutter](https://github.com/hasansuryaman/tugas_7_flutter)
+- [Tugas 8 Flutter](https://github.com/hasansuryaman/tugas_8_flutter)
+- [Tugas 9 Flutter](https://github.com/hasansuryaman/tugas_9_flutter)
 
 ### Tugas C++
 - [Tugas 1 C++](https://github.com/hasansuryaman/tugas_1_cplusplus) - Menampilkan output nama (Hasan Suryaman)
