@@ -171,17 +171,15 @@ ini adalah list dari tugas [Niomic](https://niomic.com/) yang telah saya selesai
 
 ### Tugas Networking Basic
 - [Tugas 1 Networking Basic](https://github.com/hasansuryaman/tugas_1_networking_basic) - **OSI**, dan dasar sistem bilangan.
-- [Tugas 2 Networking Basic](https://github.com/hasansuryaman/tugas_2_networking_basic)
-- [Tugas 3 Networking Basic](https://github.com/hasansuryaman/tugas_3_networking_basic)
-- [Tugas 4 Networking Basic](https://github.com/hasansuryaman/tugas_4_networking_basic)
-- [Tugas 5 Networking Basic](https://github.com/hasansuryaman/tugas_5_networking_basic)
-- [Tugas 6 Networking Basic](https://github.com/hasansuryaman/tugas_6_networking_basic)
-- [Tugas 7 Networking Basic](https://github.com/hasansuryaman/tugas_7_networking_basic)
-- [Tugas 8 Networking Basic](https://github.com/hasansuryaman/tugas_8_networking_basic)
-- [Tugas 9 Networking Basic](https://github.com/hasansuryaman/tugas_9_networking_basic)
-- [Tugas 10 Networking Basic](https://github.com/hasansuryaman/tugas_10_networking_basic)
-- [Tugas 11 Networking Basic](https://github.com/hasansuryaman/tugas_11_networking_basic)
-- [Tugas 12 Networking Basic](https://github.com/hasansuryaman/tugas_12_networking_basic)
+- [Tugas 2 Networking Basic](https://github.com/hasansuryaman/tugas_2_networking_basic) - IP Address, IP Class, CIDR, Subnet Mask
+- [Tugas 3 Networking Basic](https://github.com/hasansuryaman/tugas_3_networking_basic) - Unicast - Multicast - Kabel
+- [Tugas 4 Networking Basic](https://github.com/hasansuryaman/tugas_4_networking_basic) - Monitor Trafik Jaringan dengan Wireshark
+- [Tugas 5 Networking Basic](https://github.com/hasansuryaman/tugas_5_networking_basic) - UDP, TCP, DHCP, DNS
+- [Tugas 6 Networking Basic](https://github.com/hasansuryaman/tugas_6_networking_basic) - VLAN
+- [Tugas 7 Networking Basic](https://github.com/hasansuryaman/tugas_7_networking_basic) - Dinamic Routing
+- [Tugas 8 Networking Basic](https://github.com/hasansuryaman/tugas_8_networking_basic) - NAT Static
+- [Tugas 9 Networking Basic](https://github.com/hasansuryaman/tugas_9_networking_basic) - Bandwith, QOS IPv6
+- [Tugas 10 Networking Basic](https://github.com/hasansuryaman/tugas_10_networking_basic) - VPN, HTTPS, SFTP, Symetric Algorithm
 
 ### Tugas Flutter - Beautiful Native Apps
 - [Tugas 1 Flutter](https://github.com/hasansuryaman/tugas_1_flutter) - Membuat Program Dengan Menggunakan Widget Container, Text, Center.
@@ -213,4 +211,16 @@ ini adalah list dari tugas [Niomic](https://niomic.com/) yang telah saya selesai
 
 <br>
 
-***bulk backup*** semua tugas bisa didapatkan [disini](google.com)
+## List dan Link tools dan aplikasi yang saya digunakan.
+- [Elementary OS 5.0 Juno](https://elementary.io/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Google Chrome](https://www.google.com/chrome/)
+- [Fluter SDK](https://flutter.dev/docs/get-started/install)
+- [OpenJDK](https://openjdk.java.net/)
+- [Androis SDK](https://developer.android.com/studio#downloads)
+- [Android Studio](https://developer.android.com/studio#downloads)
+- [Wireshark](https://www.wireshark.org/#download)
+- [Packet Tracert](https://www.netacad.com/courses/packet-tracer)
+- [GCC](https://gcc.gnu.org/)
+
+***bulk-backup*** semua tugas bisa didapatkan [disini](google.com)
