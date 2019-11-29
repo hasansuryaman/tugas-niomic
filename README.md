@@ -170,7 +170,7 @@ ini adalah list dari tugas [Niomic](https://niomic.com/) yang telah saya selesai
 - [Tugas Akhir PHP](https://github.com/hasansuryaman/tugas_akhir_php)
 
 ### Tugas Networking Basic
-- [Tugas 1 Networking Basic](https://github.com/hasansuryaman/tugas_1_networking_basic)
+- [Tugas 1 Networking Basic](https://github.com/hasansuryaman/tugas_1_networking_basic) - **OSI**, dan dasar sistem bilangan.
 - [Tugas 2 Networking Basic](https://github.com/hasansuryaman/tugas_2_networking_basic)
 - [Tugas 3 Networking Basic](https://github.com/hasansuryaman/tugas_3_networking_basic)
 - [Tugas 4 Networking Basic](https://github.com/hasansuryaman/tugas_4_networking_basic)
