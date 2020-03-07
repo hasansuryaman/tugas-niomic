@@ -211,7 +211,7 @@ ini adalah list dari tugas [Niomic](https://niomic.com/) yang telah saya selesai
 
 <br>
 
-## List dan Link tools dan aplikasi yang saya digunakan.
+## List dan Link tools dan aplikasi yang digunakan.
 - [Elementary OS 5.0 Juno](https://elementary.io/)
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Google Chrome](https://www.google.com/chrome/)
