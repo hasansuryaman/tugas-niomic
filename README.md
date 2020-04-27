@@ -140,11 +140,11 @@ ini adalah list dari tugas [Niomic](https://niomic.com/) yang telah saya selesai
 - [Tugas 16 Database](https://github.com/hasansuryaman/tugas_16_database)
 
 ### Tugas Node JS
-- [Tugas 1 Node JS](https://github.com/hasansuryaman/tugas_1_nodejs)
-- [Tugas 2 Node JS](https://github.com/hasansuryaman/tugas_2_nodejs)
-- [Tugas 3 Node JS](https://github.com/hasansuryaman/tugas_3_nodejs)
-- [Tugas 4 Node JS](https://github.com/hasansuryaman/tugas_4_nodejs)
-- [Tugas 5 Node JS](https://github.com/hasansuryaman/tugas_akhir_nodejs)
+- [Tugas 1 Node JS](https://github.com/hasansuryaman/tugas_1_nodejs) - Data Json 
+- [Tugas 2 Node JS](https://github.com/hasansuryaman/tugas_2_nodejs) - CRUD (Post) API 
+- [Tugas 3 Node JS](https://github.com/hasansuryaman/tugas_3_nodejs) - CRUD (Put) API 
+- [Tugas 4 Node JS](https://github.com/hasansuryaman/tugas_4_nodejs) - CRUD (Detele) API 
+- [Tugas Akhir Node JS](https://github.com/hasansuryaman/tugas_akhir_nodejs) - Membuat dan melakukan CRUD API pada data Mahasiswa
 
 ### Tugas Deployment
 - [Tugas 1 Deployment](https://github.com/hasansuryaman/tugas_1_deployment)
