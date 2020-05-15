@@ -140,11 +140,11 @@ ini adalah list dari tugas [Niomic](https://niomic.com/) yang telah saya selesai
 - [Tugas 16 Database](https://github.com/hasansuryaman/tugas_16_database)
 
 ### Tugas Node JS
-- [Tugas 1 Node JS](https://github.com/hasansuryaman/tugas_1_nodejs) - NodeJS + ExpressJS, menampilkan JSON
-- [Tugas 2 Node JS](https://github.com/hasansuryaman/tugas_2_nodejs) - NodeJS, ExpressJS, Mongoose, Membuat CRUD API (POST)
-- [Tugas 3 Node JS](https://github.com/hasansuryaman/tugas_3_nodejs) - NodeJS, ExpressJS, Mongoose, Membuat CRUD API (PUT) 
-- [Tugas 4 Node JS](https://github.com/hasansuryaman/tugas_4_nodejs) - NodeJS, ExpressJS, Mongoose, Membuat CRUD API (DELETE)
-- [Tugas Akhir Node JS](https://github.com/hasansuryaman/tugas_akhir_nodejs) - Membuat CRUD (Create Read Update Delete) pada API data Mahasiswa.
+- [Tugas 1 Node JS](https://github.com/hasansuryaman/tugas_1_nodejs) - NodeJS + ExpressJS, Menampilkan JSON
+- [Tugas 2 Node JS](https://github.com/hasansuryaman/tugas_2_nodejs) - NodeJS + ExpressJS + Mongoose, Membuat CRUD API (POST)
+- [Tugas 3 Node JS](https://github.com/hasansuryaman/tugas_3_nodejs) - NodeJS + ExpressJS + Mongoose, Membuat CRUD API (PUT) 
+- [Tugas 4 Node JS](https://github.com/hasansuryaman/tugas_4_nodejs) - NodeJS + ExpressJS + Mongoose, Membuat CRUD API (DELETE)
+- [Tugas Akhir Node JS](https://github.com/hasansuryaman/tugas_akhir_nodejs) - Membuat CRUD (Create Read Update Delete) Pada API Data Mahasiswa.
 
 ### Tugas Deployment
 - [Tugas 1 Deployment](https://github.com/hasansuryaman/tugas_1_deployment)
