@@ -140,10 +140,10 @@ ini adalah list dari tugas [Niomic](https://niomic.com/) yang telah saya selesai
 - [Tugas 16 Database](https://github.com/hasansuryaman/tugas_16_database)
 
 ### Tugas Node JS
-- [Tugas 1 Node JS](https://github.com/hasansuryaman/tugas_1_nodejs) - NodeJS + ExpressJS, Menampilkan JSON
-- [Tugas 2 Node JS](https://github.com/hasansuryaman/tugas_2_nodejs) - NodeJS + ExpressJS + Mongoose, Membuat CRUD API (POST)
-- [Tugas 3 Node JS](https://github.com/hasansuryaman/tugas_3_nodejs) - NodeJS + ExpressJS + Mongoose, Membuat CRUD API (PUT) 
-- [Tugas 4 Node JS](https://github.com/hasansuryaman/tugas_4_nodejs) - NodeJS + ExpressJS + Mongoose, Membuat CRUD API (DELETE)
+- [Tugas 1 Node JS](https://github.com/hasansuryaman/tugas_1_nodejs) - NodeJS + ExpressJS, Menampilkan JSON.
+- [Tugas 2 Node JS](https://github.com/hasansuryaman/tugas_2_nodejs) - NodeJS + ExpressJS + Mongoose, Membuat CRUD API (POST).
+- [Tugas 3 Node JS](https://github.com/hasansuryaman/tugas_3_nodejs) - NodeJS + ExpressJS + Mongoose, Membuat CRUD API (PUT).
+- [Tugas 4 Node JS](https://github.com/hasansuryaman/tugas_4_nodejs) - NodeJS + ExpressJS + Mongoose, Membuat CRUD API (DELETE).
 - [Tugas Akhir Node JS](https://github.com/hasansuryaman/tugas_akhir_nodejs) - Membuat CRUD (Create Read Update Delete) Pada API Data Mahasiswa.
 
 ### Tugas Deployment
@@ -170,20 +170,20 @@ ini adalah list dari tugas [Niomic](https://niomic.com/) yang telah saya selesai
 - [Tugas Akhir PHP](https://github.com/hasansuryaman/tugas_akhir_php)
 
 ### Tugas Networking Basic
-- [Tugas 1 Networking Basic](https://github.com/hasansuryaman/tugas_1_networking_basic) - **OSI**, dan dasar sistem bilangan.
-- [Tugas 2 Networking Basic](https://github.com/hasansuryaman/tugas_2_networking_basic) - IP Address, IP Class, CIDR, Subnet Mask
-- [Tugas 3 Networking Basic](https://github.com/hasansuryaman/tugas_3_networking_basic) - Unicast - Multicast - Kabel
-- [Tugas 4 Networking Basic](https://github.com/hasansuryaman/tugas_4_networking_basic) - Monitor Trafik Jaringan dengan Wireshark
-- [Tugas 5 Networking Basic](https://github.com/hasansuryaman/tugas_5_networking_basic) - UDP, TCP, DHCP, DNS
-- [Tugas 6 Networking Basic](https://github.com/hasansuryaman/tugas_6_networking_basic) - VLAN
-- [Tugas 7 Networking Basic](https://github.com/hasansuryaman/tugas_7_networking_basic) - Dinamic Routing
-- [Tugas 8 Networking Basic](https://github.com/hasansuryaman/tugas_8_networking_basic) - NAT Static
-- [Tugas 9 Networking Basic](https://github.com/hasansuryaman/tugas_9_networking_basic) - Bandwith, QOS IPv6
-- [Tugas 10 Networking Basic](https://github.com/hasansuryaman/tugas_10_networking_basic) - VPN, HTTPS, SFTP, Symetric Algorithm
+- [Tugas 1 Networking Basic](https://github.com/hasansuryaman/tugas_1_networking_basic) - OSI, Dasar Sistem Bilangan.
+- [Tugas 2 Networking Basic](https://github.com/hasansuryaman/tugas_2_networking_basic) - IP Address, IP Class, CIDR, Subnet Mask.
+- [Tugas 3 Networking Basic](https://github.com/hasansuryaman/tugas_3_networking_basic) - Unicast, Multicast, Kabel.
+- [Tugas 4 Networking Basic](https://github.com/hasansuryaman/tugas_4_networking_basic) - Monitor Trafik Jaringan dengan Wireshark.
+- [Tugas 5 Networking Basic](https://github.com/hasansuryaman/tugas_5_networking_basic) - UDP, TCP, DHCP, DNS.
+- [Tugas 6 Networking Basic](https://github.com/hasansuryaman/tugas_6_networking_basic) - VLAN.
+- [Tugas 7 Networking Basic](https://github.com/hasansuryaman/tugas_7_networking_basic) - Dinamic Routing.
+- [Tugas 8 Networking Basic](https://github.com/hasansuryaman/tugas_8_networking_basic) - NAT Static.
+- [Tugas 9 Networking Basic](https://github.com/hasansuryaman/tugas_9_networking_basic) - Bandwith, QOS IPv6.
+- [Tugas 10 Networking Basic](https://github.com/hasansuryaman/tugas_10_networking_basic) - VPN, HTTPS, SFTP, Symetric Algorithm.
 
 ### Tugas Flutter - Beautiful Native Apps
-- [Tugas 1 Flutter](https://github.com/hasansuryaman/tugas_1_flutter) - Membuat Program Dengan Menggunakan Widget Container, Text, Center.
-- [Tugas 2 Flutter](https://github.com/hasansuryaman/tugas_2_flutter) - Membuat Aplikasi Dengan Menggunakan Widget Container, Text, Center, Style, Icon, AppBar, Image.
+- [Tugas 1 Flutter](https://github.com/hasansuryaman/tugas_1_flutter) - Widget Container, Text, Center.
+- [Tugas 2 Flutter](https://github.com/hasansuryaman/tugas_2_flutter) - Widget Container, Text, Center, Style, Icon, AppBar, Image.
 - [Tugas 3 Flutter](https://github.com/hasansuryaman/tugas_3_flutter)
 - [Tugas 4 Flutter](https://github.com/hasansuryaman/tugas_4_flutter)
 - [Tugas 5 Flutter](https://github.com/hasansuryaman/tugas_5_flutter)
@@ -193,7 +193,7 @@ ini adalah list dari tugas [Niomic](https://niomic.com/) yang telah saya selesai
 - [Tugas 9 Flutter](https://github.com/hasansuryaman/tugas_9_flutter)
 
 ### Tugas C++
-- [Tugas 1 C++](https://github.com/hasansuryaman/tugas_1_cplusplus) - Menampilkan output nama (Hasan Suryaman)
+- [Tugas 1 C++](https://github.com/hasansuryaman/tugas_1_cplusplus) - Menampilkan Output Nama.
 - [Tugas 2 C++](https://github.com/hasansuryaman/tugas_2_cplusplus)
 - [Tugas 3 C++](https://github.com/hasansuryaman/tugas_3_cplusplus)
 - [Tugas 4 C++](https://github.com/hasansuryaman/tugas_4_cplusplus)
@@ -212,7 +212,7 @@ ini adalah list dari tugas [Niomic](https://niomic.com/) yang telah saya selesai
 <br>
 
 ## List dan Link tools dan aplikasi yang digunakan.
-- [Elementary OS 5.0 Juno](https://elementary.io/)
+- [Elementary OS](https://elementary.io/)
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Google Chrome](https://www.google.com/chrome/)
 - [Fluter SDK](https://flutter.dev/docs/get-started/install)
@@ -223,4 +223,3 @@ ini adalah list dari tugas [Niomic](https://niomic.com/) yang telah saya selesai
 - [Packet Tracert](https://www.netacad.com/courses/packet-tracer)
 - [GCC](https://gcc.gnu.org/)
 
-***bulk-backup*** semua tugas bisa didapatkan [disini](google.com)
