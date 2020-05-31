@@ -12,23 +12,23 @@ ini adalah list dari tugas [Niomic](https://niomic.com/) yang telah saya selesai
 - [Tugas 2 HTML](https://github.com/hasansuryaman/tugas_2_html) - Heading Element, Comment.
 - [Tugas 3 HTML](https://github.com/hasansuryaman/tugas_3_html) - Icon Favicon, Heading, Element Paragraph.
 - [Tugas 4 HTML](https://github.com/hasansuryaman/tugas_4_html) - Anchor Element, Align Paragraph.
-- [Tugas 5 HTML](https://github.com/hasansuryaman/tugas_5_html)
-- [Tugas 6 HTML](https://github.com/hasansuryaman/tugas_6_html)
-- [Tugas 7 HTML](https://github.com/hasansuryaman/tugas_7_html)
-- [Tugas 8 HTML](https://github.com/hasansuryaman/tugas_8_html)
-- [Tugas 9 HTML](https://github.com/hasansuryaman/tugas_9_html)
-- [Tugas 10 HTML](https://github.com/hasansuryaman/tugas_10_html)
-- [Tugas 11 HTML](https://github.com/hasansuryaman/tugas_11_html)
-- [Tugas 12 HTML](https://github.com/hasansuryaman/tugas_12_html)
-- [Tugas 13 HTML](https://github.com/hasansuryaman/tugas_13_html)
-- [Tugas 14 HTML](https://github.com/hasansuryaman/tugas_14_html)
-- [Tugas 15 HTML](https://github.com/hasansuryaman/tugas_15_html)
-- [Tugas 16 HTML](https://github.com/hasansuryaman/tugas_16_html)
-- [Tugas 17 HTML](https://github.com/hasansuryaman/tugas_17_html)
-- [Tugas 18 HTML](https://github.com/hasansuryaman/tugas_18_html)
-- [Tugas 19 HTML](https://github.com/hasansuryaman/tugas_19_html)
-- [Tugas 20 HTML](https://github.com/hasansuryaman/tugas_20_html)
-- [Tugas 21 HTML](https://github.com/hasansuryaman/tugas_21_html)
+- [Tugas 5 HTML](https://github.com/hasansuryaman/tugas_5_html) - Format Element.
+- [Tugas 6 HTML](https://github.com/hasansuryaman/tugas_6_html) - Ordered list, Unordered list, Description list.
+- [Tugas 7 HTML](https://github.com/hasansuryaman/tugas_7_html) - Ordered list, Align Paragraph, Format Element.
+- [Tugas 8 HTML](https://github.com/hasansuryaman/tugas_8_html) - Image Element, Anchor Element, Meta Tag Viewport.
+- [Tugas 9 HTML](https://github.com/hasansuryaman/tugas_9_html) - Iframe.
+- [Tugas 10 HTML](https://github.com/hasansuryaman/tugas_10_html) - Audio Element.
+- [Tugas 11 HTML](https://github.com/hasansuryaman/tugas_11_html) - Video Element.
+- [Tugas 12 HTML](https://github.com/hasansuryaman/tugas_12_html) - Anchor Element, List, Format Element, Image, Audio, Video.
+- [Tugas 13 HTML](https://github.com/hasansuryaman/tugas_13_html) - Form Element.
+- [Tugas 14 HTML](https://github.com/hasansuryaman/tugas_14_html) - Form Element, Custom Validity.
+- [Tugas 15 HTML](https://github.com/hasansuryaman/tugas_15_html) - Form Element, Text, File, Button.
+- [Tugas 16 HTML](https://github.com/hasansuryaman/tugas_16_html) - Button, Input Color, Autocomplete.
+- [Tugas 17 HTML](https://github.com/hasansuryaman/tugas_17_html) - Input Element Type Search, Tel, Number, URL, Range.
+- [Tugas 18 HTML](https://github.com/hasansuryaman/tugas_18_html) - Input Element Date, Datetime, Datetime-local, Time, Month, Week.
+- [Tugas 19 HTML](https://github.com/hasansuryaman/tugas_19_html) - Input Element File, Radio, Checkbox.
+- [Tugas 20 HTML](https://github.com/hasansuryaman/tugas_20_html) - Text Area Element.
+- [Tugas 21 HTML](https://github.com/hasansuryaman/tugas_21_html) - Select & Option Element
 - [Tugas 22 HTML](https://github.com/hasansuryaman/tugas_22_html)
 - [Tugas 23 HTML](https://github.com/hasansuryaman/tugas_23_html)
 - [Tugas 24 HTML](https://github.com/hasansuryaman/tugas_24_html)
