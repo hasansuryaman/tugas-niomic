@@ -213,7 +213,7 @@ ini adalah list dari tugas [Niomic](https://niomic.com/) yang telah saya selesai
 - [Tugas 9 Flutter](https://github.com/hasansuryaman/tugas_9_flutter)
 
 ### Tugas C++
-- [Tugas 1 C++](https://github.com/hasansuryaman/tugas_1_cplusplus) - Menampilkan Output Nama.
+- [Tugas 1 C++](https://github.com/hasansuryaman/tugas_1_cplusplus) - Hello World!, Menampilkan output nama.
 - [Tugas 2 C++](https://github.com/hasansuryaman/tugas_2_cplusplus)
 - [Tugas 3 C++](https://github.com/hasansuryaman/tugas_3_cplusplus)
 - [Tugas 4 C++](https://github.com/hasansuryaman/tugas_4_cplusplus)
