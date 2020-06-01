@@ -29,9 +29,9 @@ ini adalah list dari tugas [Niomic](https://niomic.com/) yang telah saya selesai
 - [Tugas 19 HTML](https://github.com/hasansuryaman/tugas_19_html) - Input Element File, Radio, Checkbox.
 - [Tugas 20 HTML](https://github.com/hasansuryaman/tugas_20_html) - Text Area Element.
 - [Tugas 21 HTML](https://github.com/hasansuryaman/tugas_21_html) - Select & Option Element
-- [Tugas 22 HTML](https://github.com/hasansuryaman/tugas_22_html)
-- [Tugas 23 HTML](https://github.com/hasansuryaman/tugas_23_html)
-- [Tugas 24 HTML](https://github.com/hasansuryaman/tugas_24_html)
+- [Tugas 22 HTML](https://github.com/hasansuryaman/tugas_22_html) - Menggabungkan Komponen-komponen HTML.
+- [Tugas 23 HTML](https://github.com/hasansuryaman/tugas_23_html) - Table Element.
+- [Tugas 24 HTML](https://github.com/hasansuryaman/tugas_24_html) - Table Caption, thead, tbody dan tfooter.
 - [Tugas 25 HTML](https://github.com/hasansuryaman/tugas_25_html)
 - [Tugas Akhir HTML](https://github.com/hasansuryaman/tugas_akhir_html)
 
