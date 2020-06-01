@@ -220,6 +220,6 @@ ini adalah list dari tugas [Niomic](https://niomic.com/) yang telah saya selesai
 - [Androis SDK](https://developer.android.com/studio#downloads)
 - [Android Studio](https://developer.android.com/studio#downloads)
 - [Wireshark](https://www.wireshark.org/#download)
-- [Packet Tracert](https://www.netacad.com/courses/packet-tracer)
+- [Packet Tracer](https://www.netacad.com/courses/packet-tracer)
 - [GCC](https://gcc.gnu.org/)
 
