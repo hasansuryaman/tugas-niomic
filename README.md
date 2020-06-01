@@ -214,8 +214,8 @@ ini adalah list dari tugas [Niomic](https://niomic.com/) yang telah saya selesai
 
 ### Tugas C++
 - [Tugas 1 C++](https://github.com/hasansuryaman/tugas_1_cplusplus) - Hello World!, Menampilkan output nama.
-- [Tugas 2 C++](https://github.com/hasansuryaman/tugas_2_cplusplus)
-- [Tugas 3 C++](https://github.com/hasansuryaman/tugas_3_cplusplus)
+- [Tugas 2 C++](https://github.com/hasansuryaman/tugas_2_cplusplus) - Menampilkan output.
+- [Tugas 3 C++](https://github.com/hasansuryaman/tugas_3_cplusplus) - Tipe Data, Operasi Matematika.
 - [Tugas 4 C++](https://github.com/hasansuryaman/tugas_4_cplusplus)
 - [Tugas 5 C++](https://github.com/hasansuryaman/tugas_5_cplusplus)
 - [Tugas 6 C++](https://github.com/hasansuryaman/tugas_6_cplusplus)
