@@ -169,6 +169,26 @@ ini adalah list dari tugas [Niomic](https://niomic.com/) yang telah saya selesai
 - [Tugas 11 PHP](https://github.com/hasansuryaman/tugas_11_php)
 - [Tugas Akhir PHP](https://github.com/hasansuryaman/tugas_akhir_php)
 
+### Tugas Golang
+- [Tugas 1 Golang](https://github.com/hasansuryaman/tugas_1_golang) - Hello World!, menampilkan output nama.
+- [Tugas 2 Golang](https://github.com/hasansuryaman/tugas_2_golang)
+- [Tugas 3 Golang](https://github.com/hasansuryaman/tugas_3_golang)
+- [Tugas 4 Golang](https://github.com/hasansuryaman/tugas_4_golang)
+- [Tugas 5 Golang](https://github.com/hasansuryaman/tugas_5_golang)
+- [Tugas 6 Golang](https://github.com/hasansuryaman/tugas_6_golang)
+- [Tugas 7 Golang](https://github.com/hasansuryaman/tugas_7_golang)
+- [Tugas 8 Golang](https://github.com/hasansuryaman/tugas_8_golang)
+- [Tugas 9 Golang](https://github.com/hasansuryaman/tugas_9_golang)
+- [Tugas 10 Golang](https://github.com/hasansuryaman/tugas_10_golang)
+- [Tugas 11 Golang](https://github.com/hasansuryaman/tugas_11_golang)
+- [Tugas 12 Golang](https://github.com/hasansuryaman/tugas_12_golang)
+- [Tugas 13 Golang](https://github.com/hasansuryaman/tugas_13_golang)
+- [Tugas 14 Golang](https://github.com/hasansuryaman/tugas_14_golang)
+- [Tugas 15 Golang](https://github.com/hasansuryaman/tugas_15_golang)
+- [Tugas 16 Golang](https://github.com/hasansuryaman/tugas_16_golang)
+- [Tugas 17 Golang](https://github.com/hasansuryaman/tugas_17_golang)
+- [Tugas Akhir Golang](https://github.com/hasansuryaman/tugas_akhir_golang)
+
 ### Tugas Networking Basic
 - [Tugas 1 Networking Basic](https://github.com/hasansuryaman/tugas_1_networking_basic) - OSI, Dasar Sistem Bilangan.
 - [Tugas 2 Networking Basic](https://github.com/hasansuryaman/tugas_2_networking_basic) - IP Address, IP Class, CIDR, Subnet Mask.
