@@ -122,7 +122,7 @@ ini adalah list dari tugas [Niomic](https://niomic.com/) yang telah saya selesai
 - [Tugas 19 React JS](https://github.com/hasansuryaman/tugas_19_reactjs)
 
 ### Tugas Database
-- [Tugas 1 Database](https://github.com/hasansuryaman/tugas_1_database)
+- [Tugas 1 Database](https://github.com/hasansuryaman/tugas_1_database) - Database, RDBMS, Database Model, MySQL.
 - [Tugas 2 Database](https://github.com/hasansuryaman/tugas_2_database)
 - [Tugas 3 Database](https://github.com/hasansuryaman/tugas_3_database)
 - [Tugas 4 Database](https://github.com/hasansuryaman/tugas_4_database)
