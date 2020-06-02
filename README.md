@@ -223,7 +223,7 @@ ini adalah list dari tugas [Niomic](https://niomic.com/) yang telah saya selesai
 - [Tugas 8 C++](https://github.com/hasansuryaman/tugas_8_cplusplus) - Fungsi Percabangan Switch Case.
 - [Tugas 9 C++](https://github.com/hasansuryaman/tugas_9_cplusplus) - Perulangan FOR.
 - [Tugas 10 C++](https://github.com/hasansuryaman/tugas_10_cplusplus) - Procedure.
-- [Tugas 11 C++](https://github.com/hasansuryaman/tugas_11_cplusplus)
+- [Tugas 11 C++](https://github.com/hasansuryaman/tugas_11_cplusplus) - Function dengan Nilai Balik.
 - [Tugas 12 C++](https://github.com/hasansuryaman/tugas_12_cplusplus)
 - [Tugas 13 C++](https://github.com/hasansuryaman/tugas_13_cplusplus)
 - [Tugas 14 C++](https://github.com/hasansuryaman/tugas_14_cplusplus)
