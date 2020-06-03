@@ -216,18 +216,18 @@ ini adalah list dari tugas [Niomic](https://niomic.com/) yang telah saya selesai
 - [Tugas 1 C++](https://github.com/hasansuryaman/tugas_1_cplusplus) - Hello World!, Menampilkan output nama.
 - [Tugas 2 C++](https://github.com/hasansuryaman/tugas_2_cplusplus) - Menampilkan output.
 - [Tugas 3 C++](https://github.com/hasansuryaman/tugas_3_cplusplus) - Tipe Data, Operasi Matematika.
-- [Tugas 4 C++](https://github.com/hasansuryaman/tugas_4_cplusplus) - Fungsi Increment dan Decrement.
-- [Tugas 5 C++](https://github.com/hasansuryaman/tugas_5_cplusplus) - Fungsi Pow.
-- [Tugas 6 C++](https://github.com/hasansuryaman/tugas_6_cplusplus) - Fungsi logika IF ELSE.
-- [Tugas 7 C++](https://github.com/hasansuryaman/tugas_7_cplusplus) - Fungsi Logika IF Bersarang.
-- [Tugas 8 C++](https://github.com/hasansuryaman/tugas_8_cplusplus) - Fungsi Percabangan Switch Case.
+- [Tugas 4 C++](https://github.com/hasansuryaman/tugas_4_cplusplus) - Increment dan Decrement.
+- [Tugas 5 C++](https://github.com/hasansuryaman/tugas_5_cplusplus) - Pow.
+- [Tugas 6 C++](https://github.com/hasansuryaman/tugas_6_cplusplus) - logika IF ELSE.
+- [Tugas 7 C++](https://github.com/hasansuryaman/tugas_7_cplusplus) - Logika IF Bersarang.
+- [Tugas 8 C++](https://github.com/hasansuryaman/tugas_8_cplusplus) - Percabangan Switch Case.
 - [Tugas 9 C++](https://github.com/hasansuryaman/tugas_9_cplusplus) - Perulangan FOR.
 - [Tugas 10 C++](https://github.com/hasansuryaman/tugas_10_cplusplus) - Procedure.
 - [Tugas 11 C++](https://github.com/hasansuryaman/tugas_11_cplusplus) - Function dengan Nilai Balik.
-- [Tugas 12 C++](https://github.com/hasansuryaman/tugas_12_cplusplus)
-- [Tugas 13 C++](https://github.com/hasansuryaman/tugas_13_cplusplus)
-- [Tugas 14 C++](https://github.com/hasansuryaman/tugas_14_cplusplus)
-- [Tugas 15 C++](https://github.com/hasansuryaman/tugas_15_cplusplus)
+- [Tugas 12 C++](https://github.com/hasansuryaman/tugas_12_cplusplus) - Variable, Array.
+- [Tugas 13 C++](https://github.com/hasansuryaman/tugas_13_cplusplus) - Struct.
+- [Tugas 14 C++](https://github.com/hasansuryaman/tugas_14_cplusplus) - Pointer.
+- [Tugas 15 C++](https://github.com/hasansuryaman/tugas_15_cplusplus) - Procedure, Pointer, Function Call by Pointer.
 
 <br>
 
