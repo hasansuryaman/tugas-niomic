@@ -148,7 +148,7 @@ ini adalah list dari tugas [Niomic](https://niomic.com/) yang telah saya selesai
 - [Tugas Akhir NodeJS](https://github.com/hasansuryaman/tugas_akhir_nodejs) - Membuat CRUD (Create Read Update Delete) Pada API Data Mahasiswa.
 
 ### Tugas Deployment
-- [Tugas 1 Deployment](https://github.com/hasansuryaman/hasansuryaman.github.io) - Deploy Tugas Akhir CSS Kedalam Github Pages.
+- [Tugas 1 Deployment](https://github.com/hasansuryaman/hasansuryaman.github.io) - Deploy Tugas Akhir CSS Kedalam Github Pages. ~ [hasansuryaman.github.io](https://hasansuryaman.github.io)
 
 ### Tugas React Native
 - [Tugas 1 React Native](https://github.com/hasansuryaman/tugas_1_reactnative)
