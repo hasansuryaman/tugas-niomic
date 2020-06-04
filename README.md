@@ -144,6 +144,7 @@ ini adalah list dari tugas [Niomic](https://niomic.com/) yang telah saya selesai
 - [Tugas 2 NodeJS](https://github.com/hasansuryaman/tugas_2_nodejs) - NodeJS + ExpressJS + Mongoose, Membuat CRUD API (POST).
 - [Tugas 3 NodeJS](https://github.com/hasansuryaman/tugas_3_nodejs) - NodeJS + ExpressJS + Mongoose, Membuat CRUD API (PUT).
 - [Tugas 4 NodeJS](https://github.com/hasansuryaman/tugas_4_nodejs) - NodeJS + ExpressJS + Mongoose, Membuat CRUD API (DELETE).
+- [Study Kasus NodeJS](https://github.com/hasansuryaman/study_kasus_nodejs) - API CRUD, Express, Mongoose, BodyParser, Validator, Bcrypt.
 - [Tugas Akhir NodeJS](https://github.com/hasansuryaman/tugas_akhir_nodejs) - Membuat CRUD (Create Read Update Delete) Pada API Data Mahasiswa.
 
 ### Tugas Deployment
