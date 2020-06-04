@@ -101,7 +101,7 @@ ini adalah list dari tugas [Niomic](https://niomic.com/) yang telah saya selesai
 - [Tugas 30 Javascript](https://github.com/hasansuryaman/tugas_39_javascript)
 
 ### Tugas React JS
-- [Tugas 1 React JS](https://github.com/hasansuryaman/tugas_1_reactjs)
+- [Tugas 1 React JS](https://github.com/hasansuryaman/tugas_1_reactjs) - Instalasi, Penggunaan Class Component, Penggunaan Function Component.
 - [Tugas 2 React JS](https://github.com/hasansuryaman/tugas_2_reactjs)
 - [Tugas 3 React JS](https://github.com/hasansuryaman/tugas_3_reactjs)
 - [Tugas 4 React JS](https://github.com/hasansuryaman/tugas_4_reactjs)
