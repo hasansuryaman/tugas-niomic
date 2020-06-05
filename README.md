@@ -32,8 +32,9 @@ ini adalah list dari tugas [Niomic](https://niomic.com/) yang telah saya selesai
 - [Tugas 22 HTML](https://github.com/hasansuryaman/tugas_22_html) - Menggabungkan Komponen-komponen HTML.
 - [Tugas 23 HTML](https://github.com/hasansuryaman/tugas_23_html) - Table Element.
 - [Tugas 24 HTML](https://github.com/hasansuryaman/tugas_24_html) - Table Caption, thead, tbody dan tfooter.
-- [Tugas 25 HTML](https://github.com/hasansuryaman/tugas_25_html)
-- [Tugas Akhir HTML](https://github.com/hasansuryaman/tugas_akhir_html)
+- [Tugas 25 HTML](https://github.com/hasansuryaman/tugas_25_html) - Semantic Tag Layout.
+- [Study Kasus HTML]() - 
+- [Tugas Akhir HTML](https://github.com/hasansuryaman/tugas_akhir_html) - 
 
 ### Tugas CSS
 - [Tugas 1 CSS](https://github.com/hasansuryaman/tugas_1_css)
