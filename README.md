@@ -138,7 +138,10 @@ ini adalah list dari tugas [Niomic](https://niomic.com/) yang telah saya selesai
 - [Tugas 13 Database](https://github.com/hasansuryaman/tugas_13_database)
 - [Tugas 14 Database](https://github.com/hasansuryaman/tugas_14_database)
 - [Tugas 15 Database](https://github.com/hasansuryaman/tugas_15_database)
+- [Study Kasus MySQL](https://github.com/hasansuryaman/study_kasus_mysql)
 - [Tugas 16 Database](https://github.com/hasansuryaman/tugas_16_database)
+- [Study Kasus MongoDB](https://github.com/hasansuryaman/study_kasus_mongodb)
+
 
 ### Tugas Node JS
 - [Tugas 1 NodeJS](https://github.com/hasansuryaman/tugas_1_nodejs) - NodeJS + ExpressJS, Menampilkan JSON.
