@@ -34,7 +34,7 @@ ini adalah list dari tugas [Niomic](https://niomic.com/) yang telah saya selesai
 - [Tugas 24 HTML](https://github.com/hasansuryaman/tugas_24_html) - Table Caption, thead, tbody dan tfooter.
 - [Tugas 25 HTML](https://github.com/hasansuryaman/tugas_25_html) - Semantic Tag Layout.
 - [Study Kasus HTML](https://github.com/hasansuryaman/study_kasus_html) - Penerapan Materi Yang Telah Dipelajari Kedalam Study Kasus.
-- [Tugas Akhir HTML](https://github.com/hasansuryaman/tugas_akhir_html) - Table Element, Video Element, Format Element, Anchor Element, Align Paragraph, Image Element, Iframe,
+- [Tugas Akhir HTML](https://github.com/hasansuryaman/tugas_akhir_html) - Table Element, Video Element, Format Element, Anchor Element, Paragraph, Image Element, Iframe,
 
 ### Tugas CSS
 - [Tugas 1 CSS](https://github.com/hasansuryaman/tugas_1_css)
