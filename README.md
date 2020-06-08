@@ -179,9 +179,9 @@ ini adalah list dari tugas [Niomic](https://niomic.com/) yang telah saya selesai
 - [Tugas 2 Golang](https://github.com/hasansuryaman/tugas_2_golang) - Variabel, Operator, Seleksi Kondisi.
 - [Tugas 3 Golang](https://github.com/hasansuryaman/tugas_3_golang) - Perulangan, Array, Slice.
 - [Tugas 4 Golang](https://github.com/hasansuryaman/tugas_4_golang) - Map, Fungsi.
-- [Tugas 5 Golang](https://github.com/hasansuryaman/tugas_5_golang)
-- [Tugas 6 Golang](https://github.com/hasansuryaman/tugas_6_golang)
-- [Tugas 7 Golang](https://github.com/hasansuryaman/tugas_7_golang)
+- [Tugas 5 Golang](https://github.com/hasansuryaman/tugas_5_golang) - Struct.
+- [Tugas 6 Golang](https://github.com/hasansuryaman/tugas_6_golang) - Method, Private Dan Public.
+- [Tugas 7 Golang](https://github.com/hasansuryaman/tugas_7_golang) - Reflect, Goroutine.
 - [Tugas 8 Golang](https://github.com/hasansuryaman/tugas_8_golang)
 - [Tugas 9 Golang](https://github.com/hasansuryaman/tugas_9_golang)
 - [Tugas 10 Golang](https://github.com/hasansuryaman/tugas_10_golang)
