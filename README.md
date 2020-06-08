@@ -182,7 +182,7 @@ ini adalah list dari tugas [Niomic](https://niomic.com/) yang telah saya selesai
 - [Tugas 5 Golang](https://github.com/hasansuryaman/tugas_5_golang) - Struct.
 - [Tugas 6 Golang](https://github.com/hasansuryaman/tugas_6_golang) - Method, Private Dan Public.
 - [Tugas 7 Golang](https://github.com/hasansuryaman/tugas_7_golang) - Reflect, Goroutine.
-- [Tugas 8 Golang](https://github.com/hasansuryaman/tugas_8_golang)
+- [Tugas 8 Golang](https://github.com/hasansuryaman/tugas_8_golang) - Channel, Buffered Channel, Channel Select, Channel Timeout.
 - [Tugas 9 Golang](https://github.com/hasansuryaman/tugas_9_golang)
 - [Tugas 10 Golang](https://github.com/hasansuryaman/tugas_10_golang)
 - [Tugas 11 Golang](https://github.com/hasansuryaman/tugas_11_golang)
