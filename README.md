@@ -151,6 +151,9 @@ ini adalah list dari tugas [Niomic](https://niomic.com/) yang telah saya selesai
 - [Study Kasus NodeJS](https://github.com/hasansuryaman/study_kasus_nodejs) - API CRUD, Express, Mongoose, BodyParser, Validator, Bcrypt.
 - [Tugas Akhir NodeJS](https://github.com/hasansuryaman/tugas_akhir_nodejs) - Membuat CRUD (Create Read Update Delete) Pada API Data Mahasiswa.
 
+## Tugas PHP - Online Store With Laravel
+- [Tugas]()
+
 ### Tugas Deployment
 - [Tugas 1 Deployment](https://github.com/hasansuryaman/hasansuryaman.github.io) - Deploy Tugas Akhir CSS Kedalam Github Pages. ~ [hasansuryaman.github.io](https://hasansuryaman.github.io)
 
