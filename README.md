@@ -142,7 +142,6 @@ ini adalah list dari tugas [Niomic](https://niomic.com/) yang telah saya selesai
 - [Tugas 16 Database](https://github.com/hasansuryaman/tugas_16_database)
 - [Study Kasus MongoDB](https://github.com/hasansuryaman/study_kasus_mongodb)
 
-
 ### Tugas Node JS
 - [Tugas 1 NodeJS](https://github.com/hasansuryaman/tugas_1_nodejs) - NodeJS + ExpressJS, Menampilkan JSON.
 - [Tugas 2 NodeJS](https://github.com/hasansuryaman/tugas_2_nodejs) - NodeJS + ExpressJS + Mongoose, Membuat CRUD API (POST).
@@ -150,9 +149,6 @@ ini adalah list dari tugas [Niomic](https://niomic.com/) yang telah saya selesai
 - [Tugas 4 NodeJS](https://github.com/hasansuryaman/tugas_4_nodejs) - NodeJS + ExpressJS + Mongoose, Membuat CRUD API (DELETE).
 - [Study Kasus NodeJS](https://github.com/hasansuryaman/study_kasus_nodejs) - API CRUD, Express, Mongoose, BodyParser, Validator, Bcrypt.
 - [Tugas Akhir NodeJS](https://github.com/hasansuryaman/tugas_akhir_nodejs) - Membuat CRUD (Create Read Update Delete) Pada API Data Mahasiswa.
-
-## Tugas PHP - Online Store With Laravel
-- [Tugas]()
 
 ### Tugas Deployment
 - [Tugas 1 Deployment](https://github.com/hasansuryaman/hasansuryaman.github.io) - Deploy Tugas Akhir CSS Kedalam Github Pages. ~ [hasansuryaman.github.io](https://hasansuryaman.github.io)
@@ -236,6 +232,9 @@ ini adalah list dari tugas [Niomic](https://niomic.com/) yang telah saya selesai
 - [Tugas 13 C++](https://github.com/hasansuryaman/tugas_13_cplusplus) - Struct.
 - [Tugas 14 C++](https://github.com/hasansuryaman/tugas_14_cplusplus) - Pointer.
 - [Tugas 15 C++](https://github.com/hasansuryaman/tugas_15_cplusplus) - Procedure, Pointer, Function Call by Pointer.
+
+### PHP - Online Store With Laravel
+- [Project Akhr]()
 
 <br>
 
