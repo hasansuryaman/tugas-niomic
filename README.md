@@ -124,11 +124,11 @@ ini adalah list dari tugas [Niomic](https://niomic.com/) yang telah saya selesai
 
 ### Tugas Database
 - [Tugas 1 Database](https://github.com/hasansuryaman/tugas_1_database) - Database, RDBMS, Database Model, MySQL.
-- [Tugas 2 Database](https://github.com/hasansuryaman/tugas_2_database)
-- [Tugas 3 Database](https://github.com/hasansuryaman/tugas_3_database)
-- [Tugas 4 Database](https://github.com/hasansuryaman/tugas_4_database)
-- [Tugas 5 Database](https://github.com/hasansuryaman/tugas_5_database)
-- [Tugas 6 Database](https://github.com/hasansuryaman/tugas_6_database)
+- [Tugas 2 Database](https://github.com/hasansuryaman/tugas_2_database) - Field, Atribute, Tuple, Relation, Candidate Key, Primary Key.
+- [Tugas 3 Database](https://github.com/hasansuryaman/tugas_3_database) - XAMPP, MySQL Server, MySQL Client, PHPMyAdmin.
+- [Tugas 4 Database](https://github.com/hasansuryaman/tugas_4_database) - Query MySQL, Ubah Nama Tabel, Hapus Tabel.
+- [Tugas 5 Database](https://github.com/hasansuryaman/tugas_5_database) - Character Set, Collation, Tipe Data MySQL.
+- [Tugas 6 Database](https://github.com/hasansuryaman/tugas_6_database) - 
 - [Tugas 7 Database](https://github.com/hasansuryaman/tugas_7_database)
 - [Tugas 8 Database](https://github.com/hasansuryaman/tugas_8_database)
 - [Tugas 9 Database](https://github.com/hasansuryaman/tugas_9_database)
