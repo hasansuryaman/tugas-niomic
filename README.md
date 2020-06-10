@@ -128,8 +128,8 @@ ini adalah list dari tugas [Niomic](https://niomic.com/) yang telah saya selesai
 - [Tugas 3 Database](https://github.com/hasansuryaman/tugas_3_database) - XAMPP, MySQL Server, MySQL Client, PHPMyAdmin.
 - [Tugas 4 Database](https://github.com/hasansuryaman/tugas_4_database) - Query MySQL, Ubah Nama Tabel, Hapus Tabel.
 - [Tugas 5 Database](https://github.com/hasansuryaman/tugas_5_database) - Character Set, Collation, Tipe Data MySQL.
-- [Tugas 6 Database](https://github.com/hasansuryaman/tugas_6_database) - 
-- [Tugas 7 Database](https://github.com/hasansuryaman/tugas_7_database)
+- [Tugas 6 Database](https://github.com/hasansuryaman/tugas_6_database) - Storage Engine, Ubah Nama Kolom, Temporary Table, Hapus Tabel.
+- [Tugas 7 Database](https://github.com/hasansuryaman/tugas_7_database) - 
 - [Tugas 8 Database](https://github.com/hasansuryaman/tugas_8_database)
 - [Tugas 9 Database](https://github.com/hasansuryaman/tugas_9_database)
 - [Tugas 10 Database](https://github.com/hasansuryaman/tugas_10_database)
