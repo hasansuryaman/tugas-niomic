@@ -37,7 +37,7 @@ ini adalah list dari tugas [Niomic](https://niomic.com/) yang telah saya selesai
 - [Tugas Akhir HTML](https://github.com/hasansuryaman/tugas_akhir_html) - Table Element, Video Element, Format Element, Anchor Element, Paragraph, Image Element, Iframe,
 
 ### Tugas CSS
-- [Tugas 1 CSS](https://github.com/hasansuryaman/tugas_1_css) - Komentar, Media Type, Inline CSS, Internal CSS, & External CSS.
+- [Tugas 1 CSS](https://github.com/hasansuryaman/tugas_1_css) - Komentar, Media Type, Inline CSS, Internal CSS, External CSS.
 - [Tugas 2 CSS](https://github.com/hasansuryaman/tugas_2_css) - Universal Selector, Element Selector, Class Selector, ID Selector, Group Selector, Spesific Selector.
 - [Tugas 3 CSS](https://github.com/hasansuryaman/tugas_3_css)
 - [Tugas 4 CSS](https://github.com/hasansuryaman/tugas_4_css)
