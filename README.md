@@ -39,9 +39,9 @@ ini adalah list dari tugas [Niomic](https://niomic.com/) yang telah saya selesai
 ### Tugas CSS
 - [Tugas 1 CSS](https://github.com/hasansuryaman/tugas_1_css) - Komentar, Media Type, Inline CSS, Internal CSS, External CSS.
 - [Tugas 2 CSS](https://github.com/hasansuryaman/tugas_2_css) - Universal Selector, Element Selector, Class Selector, ID Selector, Group Selector, Spesific Selector.
-- [Tugas 3 CSS](https://github.com/hasansuryaman/tugas_3_css)
-- [Tugas 4 CSS](https://github.com/hasansuryaman/tugas_4_css)
-- [Tugas 5 CSS](https://github.com/hasansuryaman/tugas_5_css)
+- [Tugas 3 CSS](https://github.com/hasansuryaman/tugas_3_css) - Color, Font-Size, Font-Weight, Font-Family.
+- [Tugas 4 CSS](https://github.com/hasansuryaman/tugas_4_css) - Font-Size, Color, !important.
+- [Tugas 5 CSS](https://github.com/hasansuryaman/tugas_5_css) - Text Align, Text Transform.
 - [Tugas 6 CSS](https://github.com/hasansuryaman/tugas_6_css)
 - [Tugas 7 CSS](https://github.com/hasansuryaman/tugas_7_css)
 - [Tugas 8 CSS](https://github.com/hasansuryaman/tugas_8_css)
@@ -70,10 +70,10 @@ ini adalah list dari tugas [Niomic](https://niomic.com/) yang telah saya selesai
 - [Tugas Akhir CSS](https://github.com/hasansuryaman/tugas_akhir_css)
 
 ### Tugas Javascript
-- [Tugas 1 Javascript](https://github.com/hasansuryaman/tugas_1_javascript)
-- [Tugas 2 Javascript](https://github.com/hasansuryaman/tugas_2_javascript)
-- [Tugas 3 Javascript](https://github.com/hasansuryaman/tugas_3_javascript)
-- [Tugas 4 Javascript](https://github.com/hasansuryaman/tugas_4_javascript)
+- [Tugas 1 Javascript](https://github.com/hasansuryaman/tugas_1_javascript) - Var, Let, Const.
+- [Tugas 2 Javascript](https://github.com/hasansuryaman/tugas_2_javascript) - Tipe Data Number , String , Boolean , Null, Undifined dan Array.
+- [Tugas 3 Javascript](https://github.com/hasansuryaman/tugas_3_javascript) - Function, Return, Parameter.
+- [Tugas 4 Javascript](https://github.com/hasansuryaman/tugas_4_javascript) - If-else.
 - [Tugas 5 Javascript](https://github.com/hasansuryaman/tugas_5_javascript)
 - [Tugas 6 Javascript](https://github.com/hasansuryaman/tugas_6_javascript)
 - [Tugas 7 Javascript](https://github.com/hasansuryaman/tugas_7_javascript)
