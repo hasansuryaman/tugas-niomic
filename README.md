@@ -7,7 +7,7 @@ ini adalah list dari tugas [Niomic](https://niomic.com/) yang telah saya selesai
 
 ![Tugas Niomic](screen/folder-tugas-niomic.png)
 
-### Tugas HTML
+### 1. HTML
 - [Tugas 1 HTML](https://github.com/hasansuryaman/tugas_1_html) - Meta Charset HTML 5, Element Title, Meta Author, Keyword & Description, Meta Refresh dan Link Favicon.
 - [Tugas 2 HTML](https://github.com/hasansuryaman/tugas_2_html) - Heading Element, Comment.
 - [Tugas 3 HTML](https://github.com/hasansuryaman/tugas_3_html) - Icon Favicon, Heading, Element Paragraph.
@@ -36,7 +36,7 @@ ini adalah list dari tugas [Niomic](https://niomic.com/) yang telah saya selesai
 - [Study Kasus HTML](https://github.com/hasansuryaman/study_kasus_html) - Penerapan Materi Yang Telah Dipelajari Kedalam Study Kasus.
 - [Tugas Akhir HTML](https://github.com/hasansuryaman/tugas_akhir_html) - Table Element, Video Element, Format Element, Anchor Element, Paragraph, Image Element, Iframe,
 
-### Tugas CSS
+### 2. CSS
 - [Tugas 1 CSS](https://github.com/hasansuryaman/tugas_1_css) - Komentar, Media Type, Inline CSS, Internal CSS, External CSS.
 - [Tugas 2 CSS](https://github.com/hasansuryaman/tugas_2_css) - Universal Selector, Element Selector, Class Selector, ID Selector, Group Selector, Spesific Selector.
 - [Tugas 3 CSS](https://github.com/hasansuryaman/tugas_3_css) - Color, Font-Size, Font-Weight, Font-Family.
@@ -70,7 +70,7 @@ ini adalah list dari tugas [Niomic](https://niomic.com/) yang telah saya selesai
 - [Studi Kasus CSS](https://github.com/hasansuryaman/study_kasus_css) - Halaman Website Study Kasus.
 - [Tugas Akhir CSS](https://github.com/hasansuryaman/tugas_akhir_css)
 
-### Tugas Javascript
+### 3. Javascript
 - [Tugas 1 Javascript](https://github.com/hasansuryaman/tugas_1_javascript) - Var, Let, Const.
 - [Tugas 2 Javascript](https://github.com/hasansuryaman/tugas_2_javascript) - Tipe Data Number , String , Boolean , Null, Undifined dan Array.
 - [Tugas 3 Javascript](https://github.com/hasansuryaman/tugas_3_javascript) - Function, Return, Parameter.
@@ -102,7 +102,7 @@ ini adalah list dari tugas [Niomic](https://niomic.com/) yang telah saya selesai
 - [Tugas 29 Javascript](https://github.com/hasansuryaman/tugas_29_javascript)
 - [Tugas 30 Javascript](https://github.com/hasansuryaman/tugas_39_javascript)
 
-### Tugas React JS
+### 4. React JS
 - [Tugas 1 React JS](https://github.com/hasansuryaman/tugas_1_reactjs) - Instalasi, Penggunaan Class Component, Penggunaan Function Component.
 - [Tugas 2 React JS](https://github.com/hasansuryaman/tugas_2_reactjs)
 - [Tugas 3 React JS](https://github.com/hasansuryaman/tugas_3_reactjs)
@@ -123,7 +123,7 @@ ini adalah list dari tugas [Niomic](https://niomic.com/) yang telah saya selesai
 - [Tugas 18 React JS](https://github.com/hasansuryaman/tugas_18_reactjs)
 - [Tugas 19 React JS](https://github.com/hasansuryaman/tugas_19_reactjs)
 
-### Tugas Database
+### 5. Database
 - [Tugas 1 Database](https://github.com/hasansuryaman/tugas_1_database) - Database, RDBMS, Database Model, MySQL.
 - [Tugas 2 Database](https://github.com/hasansuryaman/tugas_2_database) - Field, Atribute, Tuple, Relation, Candidate Key, Primary Key.
 - [Tugas 3 Database](https://github.com/hasansuryaman/tugas_3_database) - XAMPP, MySQL Server, MySQL Client, PHPMyAdmin.
@@ -143,7 +143,7 @@ ini adalah list dari tugas [Niomic](https://niomic.com/) yang telah saya selesai
 - [Tugas 16 Database](https://github.com/hasansuryaman/tugas_16_database)
 - [Study Kasus MongoDB](https://github.com/hasansuryaman/study_kasus_mongodb)
 
-### Tugas Node JS
+### 6. Node JS
 - [Tugas 1 NodeJS](https://github.com/hasansuryaman/tugas_1_nodejs) - NodeJS + ExpressJS, Menampilkan JSON.
 - [Tugas 2 NodeJS](https://github.com/hasansuryaman/tugas_2_nodejs) - NodeJS + ExpressJS + Mongoose, Membuat CRUD API (POST).
 - [Tugas 3 NodeJS](https://github.com/hasansuryaman/tugas_3_nodejs) - NodeJS + ExpressJS + Mongoose, Membuat CRUD API (PUT).
@@ -151,16 +151,16 @@ ini adalah list dari tugas [Niomic](https://niomic.com/) yang telah saya selesai
 - [Study Kasus NodeJS](https://github.com/hasansuryaman/study_kasus_nodejs) - API CRUD, Express, Mongoose, BodyParser, Validator, Bcrypt.
 - [Tugas Akhir NodeJS](https://github.com/hasansuryaman/tugas_akhir_nodejs) - Membuat CRUD (Create Read Update Delete) Pada API Data Mahasiswa.
 
-### Tugas Deployment
+### 7. Deployment
 - [Tugas 1 Deployment](https://github.com/hasansuryaman/hasansuryaman.github.io) - Deploy Tugas Akhir CSS Kedalam Github Pages. ~ [hasansuryaman.github.io](https://hasansuryaman.github.io)
 
-### Tugas React Native
+### 8. React Native
 - [Tugas 1 React Native](https://github.com/hasansuryaman/tugas_1_reactnative)
 - [Tugas 2 React Native](https://github.com/hasansuryaman/tugas_2_reactnative)
 - [Tugas 3 React Native](https://github.com/hasansuryaman/tugas_3_reactnative)
 - [Tugas 4 React Native](https://github.com/hasansuryaman/tugas_4_reactnative)
 
-### Tugas PHP
+### 9. PHP
 - [Tugas 1 PHP](https://github.com/hasansuryaman/tugas_1_php)
 - [Tugas 2 PHP](https://github.com/hasansuryaman/tugas_2_php)
 - [Tugas 3 PHP](https://github.com/hasansuryaman/tugas_3_php)
@@ -174,7 +174,7 @@ ini adalah list dari tugas [Niomic](https://niomic.com/) yang telah saya selesai
 - [Tugas 11 PHP](https://github.com/hasansuryaman/tugas_11_php)
 - [Tugas Akhir PHP](https://github.com/hasansuryaman/tugas_akhir_php)
 
-### Tugas Golang
+### 10. Golang
 - [Tugas 1 Golang](https://github.com/hasansuryaman/tugas_1_golang) - Hello World!, menampilkan output nama.
 - [Tugas 2 Golang](https://github.com/hasansuryaman/tugas_2_golang) - Variabel, Operator, Seleksi Kondisi.
 - [Tugas 3 Golang](https://github.com/hasansuryaman/tugas_3_golang) - Perulangan, Array, Slice.
@@ -194,7 +194,7 @@ ini adalah list dari tugas [Niomic](https://niomic.com/) yang telah saya selesai
 - [Tugas 17 Golang](https://github.com/hasansuryaman/tugas_17_golang)
 - [Tugas Akhir Golang](https://github.com/hasansuryaman/tugas_akhir_golang)
 
-### Tugas Networking Basic
+### 11. Networking Basic
 - [Tugas 1 Networking Basic](https://github.com/hasansuryaman/tugas_1_networking_basic) - OSI, Dasar Sistem Bilangan.
 - [Tugas 2 Networking Basic](https://github.com/hasansuryaman/tugas_2_networking_basic) - IP Address, IP Class, CIDR, Subnet Mask.
 - [Tugas 3 Networking Basic](https://github.com/hasansuryaman/tugas_3_networking_basic) - Unicast, Multicast, Kabel.
@@ -206,7 +206,7 @@ ini adalah list dari tugas [Niomic](https://niomic.com/) yang telah saya selesai
 - [Tugas 9 Networking Basic](https://github.com/hasansuryaman/tugas_9_networking_basic) - Bandwith, QOS IPv6.
 - [Tugas 10 Networking Basic](https://github.com/hasansuryaman/tugas_10_networking_basic) - VPN, HTTPS, SFTP, Symetric Algorithm.
 
-### Tugas Flutter - Beautiful Native Apps
+### 12. Flutter - Beautiful Native Apps
 - [Tugas 1 Flutter](https://github.com/hasansuryaman/tugas_1_flutter) - Widget Container, Text, Center.
 - [Tugas 2 Flutter](https://github.com/hasansuryaman/tugas_2_flutter) - Widget Container, Text, Center, Style, Icon, AppBar, Image.
 - [Tugas 3 Flutter](https://github.com/hasansuryaman/tugas_3_flutter)
@@ -217,7 +217,7 @@ ini adalah list dari tugas [Niomic](https://niomic.com/) yang telah saya selesai
 - [Tugas 8 Flutter](https://github.com/hasansuryaman/tugas_8_flutter)
 - [Tugas 9 Flutter](https://github.com/hasansuryaman/tugas_9_flutter)
 
-### Tugas C++
+### 13. C++
 - [Tugas 1 C++](https://github.com/hasansuryaman/tugas_1_cplusplus) - Hello World!, Menampilkan output nama.
 - [Tugas 2 C++](https://github.com/hasansuryaman/tugas_2_cplusplus) - Menampilkan output.
 - [Tugas 3 C++](https://github.com/hasansuryaman/tugas_3_cplusplus) - Tipe Data, Operasi Matematika.
@@ -234,5 +234,5 @@ ini adalah list dari tugas [Niomic](https://niomic.com/) yang telah saya selesai
 - [Tugas 14 C++](https://github.com/hasansuryaman/tugas_14_cplusplus) - Pointer.
 - [Tugas 15 C++](https://github.com/hasansuryaman/tugas_15_cplusplus) - Procedure, Pointer, Function Call by Pointer.
 
-### PHP - Online Store With Laravel
+### 14. PHP - Online Store With Laravel
 - [Project Akhr]()
