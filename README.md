@@ -67,6 +67,7 @@ ini adalah list dari tugas [Niomic](https://niomic.com/) yang telah saya selesai
 - [Tugas 28 CSS](https://github.com/hasansuryaman/tugas_28_css)
 - [Tugas 29 CSS](https://github.com/hasansuryaman/tugas_29_css)
 - [Tugas 30 CSS](https://github.com/hasansuryaman/tugas_30_css)
+- [Studi Kasus CSS](https://github.com/hasansuryaman/study_kasus_css) - Halaman Website Study Kasus.
 - [Tugas Akhir CSS](https://github.com/hasansuryaman/tugas_akhir_css)
 
 ### Tugas Javascript
