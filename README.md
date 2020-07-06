@@ -236,18 +236,3 @@ ini adalah list dari tugas [Niomic](https://niomic.com/) yang telah saya selesai
 
 ### PHP - Online Store With Laravel
 - [Project Akhr]()
-
-<br>
-
-## List dan Link tools dan aplikasi yang digunakan.
-- [Elementary OS](https://elementary.io/)
-- [Visual Studio Code](https://code.visualstudio.com/)
-- [Google Chrome](https://www.google.com/chrome/)
-- [Fluter SDK](https://flutter.dev/docs/get-started/install)
-- [OpenJDK](https://openjdk.java.net/)
-- [Androis SDK](https://developer.android.com/studio#downloads)
-- [Android Studio](https://developer.android.com/studio#downloads)
-- [Wireshark](https://www.wireshark.org/#download)
-- [Packet Tracer](https://www.netacad.com/courses/packet-tracer)
-- [GCC](https://gcc.gnu.org/)
-
