@@ -1,14 +1,13 @@
 # [Niomic](#)
 
-
-
 ## Tugas Niomic
+
+![Niomic](niomic.png)
+
 ini adalah list dari tugas [Niomic](https://niomic.com/) yang telah saya selesaikan.
 
-![Tugas Niomic](screen/folder-tugas-niomic.png)
-
 ### 1. HTML
-- [Tugas 1 HTML](https://github.com/hasansuryaman/tugas_1_html) - Meta Charset HTML 5, Element Title, Meta Author, Keyword & Description, Meta Refresh dan Link Favicon.
+- [Tugas 1 HTML](https://github.com/hasansuryaman/tugas_1_html) - Meta Charset, Title, Meta Author, Keyword & Description, Meta Refresh dan Link Favicon.
 - [Tugas 2 HTML](https://github.com/hasansuryaman/tugas_2_html) - Heading Element, Comment.
 - [Tugas 3 HTML](https://github.com/hasansuryaman/tugas_3_html) - Icon Favicon, Heading, Element Paragraph.
 - [Tugas 4 HTML](https://github.com/hasansuryaman/tugas_4_html) - Anchor Element, Align Paragraph.
