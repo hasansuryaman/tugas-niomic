@@ -1,10 +1,10 @@
-# [Niomic](#)
+<h1 align="center">Tugas Niomic</h1>
 
-## Tugas Niomic
+<p align="center"><img src="niomic.png" alt="Niomic" width="200"/></p>
 
-![Niomic](niomic.png)
+<p align="center">Ini adalah list dari tugas <a href="https://niomic.com/">Niomic</a> yang telah saya selesaikan.</p>
 
-ini adalah list dari tugas [Niomic](https://niomic.com/) yang telah saya selesaikan.
+
 
 ### 1. HTML
 - [Tugas 1 HTML](https://github.com/hasansuryaman/tugas_1_html) - Meta Charset, Title, Meta Author, Keyword & Description, Meta Refresh dan Link Favicon.
