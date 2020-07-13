@@ -61,11 +61,11 @@
 - [Tugas 23 CSS](https://github.com/hasansuryaman/tugas_23_css)
 - [Tugas 24 CSS](https://github.com/hasansuryaman/tugas_24_css)
 - [Tugas 25 CSS](https://github.com/hasansuryaman/tugas_25_css)
-- [Tugas 26 CSS](https://github.com/hasansuryaman/tugas_26_css)
-- [Tugas 27 CSS](https://github.com/hasansuryaman/tugas_27_css)
+- [Tugas 26 CSS](https://github.com/hasansuryaman/tugas_26_css) - Bootstrap Images.
+- [Tugas 27 CSS](https://github.com/hasansuryaman/tugas_27_css) - Bootstrap Grid.
 - [Tugas 28 CSS](https://github.com/hasansuryaman/tugas_28_css)
-- [Tugas 29 CSS](https://github.com/hasansuryaman/tugas_29_css)
-- [Tugas 30 CSS](https://github.com/hasansuryaman/tugas_30_css)
+- [Tugas 29 CSS](https://github.com/hasansuryaman/tugas_29_css) - Semantic UI.
+- [Tugas 30 CSS](https://github.com/hasansuryaman/tugas_30_css) - Materialize CSS.
 - [Studi Kasus CSS](https://github.com/hasansuryaman/study_kasus_css) - Halaman Website Study Kasus.
 - [Tugas Akhir CSS](https://github.com/hasansuryaman/tugas_akhir_css)
 
