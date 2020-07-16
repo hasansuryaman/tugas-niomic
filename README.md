@@ -41,23 +41,23 @@
 - [Tugas 3 CSS](https://github.com/hasansuryaman/tugas_3_css) - Color, Font-Size, Font-Weight, Font-Family.
 - [Tugas 4 CSS](https://github.com/hasansuryaman/tugas_4_css) - Font-Size, Color, !important.
 - [Tugas 5 CSS](https://github.com/hasansuryaman/tugas_5_css) - Text Align, Text Transform.
-- [Tugas 6 CSS](https://github.com/hasansuryaman/tugas_6_css)
-- [Tugas 7 CSS](https://github.com/hasansuryaman/tugas_7_css)
-- [Tugas 8 CSS](https://github.com/hasansuryaman/tugas_8_css)
-- [Tugas 9 CSS](https://github.com/hasansuryaman/tugas_9_css)
-- [Tugas 10 CSS](https://github.com/hasansuryaman/tugas_10_css)
-- [Tugas 11 CSS](https://github.com/hasansuryaman/tugas_11_css)
-- [Tugas 12 CSS](https://github.com/hasansuryaman/tugas_12_css)
-- [Tugas 13 CSS](https://github.com/hasansuryaman/tugas_13_css)
-- [Tugas 14 CSS](https://github.com/hasansuryaman/tugas_14_css)
-- [Tugas 15 CSS](https://github.com/hasansuryaman/tugas_15_css)
-- [Tugas 16 CSS](https://github.com/hasansuryaman/tugas_16_css)
-- [Tugas 17 CSS](https://github.com/hasansuryaman/tugas_17_css)
-- [Tugas 18 CSS](https://github.com/hasansuryaman/tugas_18_css)
-- [Tugas 19 CSS](https://github.com/hasansuryaman/tugas_19_css)
-- [Tugas 20 CSS](https://github.com/hasansuryaman/tugas_20_css)
-- [Tugas 21 CSS](https://github.com/hasansuryaman/tugas_21_css)
-- [Tugas 22 CSS](https://github.com/hasansuryaman/tugas_22_css)
+- [Tugas 6 CSS](https://github.com/hasansuryaman/tugas_6_css) - Overflow, Border, Padding.
+- [Tugas 7 CSS](https://github.com/hasansuryaman/tugas_7_css) - Background.
+- [Tugas 8 CSS](https://github.com/hasansuryaman/tugas_8_css) - Background.
+- [Tugas 9 CSS](https://github.com/hasansuryaman/tugas_9_css) - Z-Index, Float, Position.
+- [Tugas 10 CSS](https://github.com/hasansuryaman/tugas_10_css) - Gradient.
+- [Tugas 11 CSS](https://github.com/hasansuryaman/tugas_11_css) - Column.
+- [Tugas 12 CSS](https://github.com/hasansuryaman/tugas_12_css) - Column Count.
+- [Tugas 13 CSS](https://github.com/hasansuryaman/tugas_13_css) - Border Image.
+- [Tugas 14 CSS](https://github.com/hasansuryaman/tugas_14_css) - Flexbox.
+- [Tugas 15 CSS](https://github.com/hasansuryaman/tugas_15_css) - Flexbox.
+- [Tugas 16 CSS](https://github.com/hasansuryaman/tugas_16_css) - Flexbox.
+- [Tugas 17 CSS](https://github.com/hasansuryaman/tugas_17_css) - Flexbox.
+- [Tugas 18 CSS](https://github.com/hasansuryaman/tugas_18_css) - Flexbox.
+- [Tugas 19 CSS](https://github.com/hasansuryaman/tugas_19_css) - Flexbox.
+- [Tugas 20 CSS](https://github.com/hasansuryaman/tugas_20_css) - Flexbox.
+- [Tugas 21 CSS](https://github.com/hasansuryaman/tugas_21_css) - Penggunaan Bootstrap (Local dan CDN).
+- [Tugas 22 CSS](https://github.com/hasansuryaman/tugas_22_css) - Bootstrap Typography.
 - [Tugas 23 CSS](https://github.com/hasansuryaman/tugas_23_css)
 - [Tugas 24 CSS](https://github.com/hasansuryaman/tugas_24_css)
 - [Tugas 25 CSS](https://github.com/hasansuryaman/tugas_25_css)
